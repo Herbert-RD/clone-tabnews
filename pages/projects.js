@@ -1,7 +1,7 @@
 function Home(){
   return (
     <div>
-      <h1>Esses são meus projeto</h1>
+      <h1>Ajeitar mensagem</h1>
     </div>
 
     )

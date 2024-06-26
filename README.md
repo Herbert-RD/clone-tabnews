@@ -1,6 +1,3 @@
-# clone-tabnews
+# Pixeltab
 
-A study repository, which i'll be testing and developing a clone of the TabNews - Felipe Deschamps
-
-Testing Push
-Testing push 2
+Space to share and discuss pixel based ART!

@@ -1,10 +1,7 @@
 function Home() {
   return (
-    <div>
-      <h1>Vitoria, de todas as irmãs que eu tenho você é a melhor 😻🐱👯</h1>
-      <h2>Binho Beriba</h2>
-      <h2>Eu mesmo</h2>
-      <h2>Push Study</h2>
+    <div style={{ color: "grey", display: "flex", width: "100%", alignItems: "center", justifyContent: "center" }}>
+      <h1 >PIXELTAB - A Space to share and discuss pixel based ART!</h1>
     </div>
   );
 }
